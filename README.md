@@ -7,6 +7,8 @@ This is a website created to sell games for different types of consoles such as 
 - A page to contact us in case of any issue with the page.
 - A section to learn a little about those who developed the page and what services we provide to the users.
 
+![](imagen5.png)
+
 This website was the final project that I did together with my 2 colleagues from MITT for our introduction to web development course.This project included several challenges, mainly of those , generating the styles of the application, when the page that shows the games that are to be sold was created, adjusting the columns between the filters and the games of the catalog was a somewhat challenging job but it was also very interesting to do, in addition to that, generating the style for each game in the catalog and the search filters next to the games section was a really difficult task to do.
 
 Here are some examples of some pieces of code that were really difficult to make:
