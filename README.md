@@ -30,6 +30,10 @@ Here are some examples of some pieces of code that were really difficult to make
     ##### Description
     The names .games-filters and .game-deals represent the filters section and the game catalog section on the page, which are containers where the images and search filters will be placed to be able to see the games, with this in mind we can continue saying that several properties that css has were used to be able to modify the style of the objects on the web page, in the case of this example **width** was used to modify the width that each object can have, that is,because the games section has to be bigger than the filters section, and also the margin-left property to indicate a small margin that the games catalog will have with the other sections on the right side, finally the name .colums-alignment was used to identify the part of the code that It will generate 2 columns and allow the filters and the game catalog to share the same space.
 
+    ##### Result
+  
+     ![](imagen1.png) 
+
 * ### **Generate the style for checkboxes in the filter section**
     ```CSS
     .boxes-filters input[type="checkbox"]{
@@ -49,6 +53,10 @@ Here are some examples of some pieces of code that were really difficult to make
     ```
     ##### Description
     In order to identify the checkboxes that will be on the filters section , we use the name .boxes-filters indicating the object that contains those objects and following this we use input[type=checkbox] to identify the checkboxes, following this we establish The properties that we will use to generate the checkbox styles starting with the length and width of each checkbox (width and height), continuing with the border of the checkbox and the background color that each box will have and how circular the square will be. its corners (border-radius, background-color, border), we also establish the style for when the checkbox is selected using the identifier .boxes-filters input[type="checkbox"]:checked.
+    ##### Result
+  
+     ![](imagen2.png) 
+
 
 * ### **Generate style to the images of the game catalog**
 
@@ -81,6 +89,9 @@ Here are some examples of some pieces of code that were really difficult to make
     ##### Description
     In the html, only a container with the name column is created, likewise another container is used to save the images of each game with the name of each game and a name is established to identify them for when they are styled. to each object, in this case it will be image and image-1, after that we proceed to establish which image to use as well as the size that the image will occupy in the container.
     Following this we establish the size of the letter used as the name of the image and the margin that said text will have.
+    ##### Result
+  
+     ![](imagen3.png)
 
 * ### **More styles for the game catalog images**
     
@@ -92,6 +103,9 @@ Here are some examples of some pieces of code that were really difficult to make
     ```
     ##### Description
     This piece of code was used to give a style to each image of the game catalog, mainly when the cursor lands on the image, a mini-section will be displayed with the price and rating of each game, for this the :hover instruction as shown in the code.
+    ##### Result
+  
+     ![](imagen4.png)
 
 
 ### Improvements 
